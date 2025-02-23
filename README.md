@@ -1,4 +1,4 @@
-# Placer un ordinateur
+# Configurer un ordinateur
 Configurer son adresse IP
 Entrer dans le terminal de commande
 Voir l'adresse IP
@@ -42,4 +42,4 @@ Configurer les adresses IP, Gateway
 
 ![2 computer in a separate network that communicate through a gateway with a router](6.png "2 computer in a separate network that communicate through a gateway with a router")
 
-# Router on a stick# cisco_packet_tracer_tuto
+# Router on a stick
