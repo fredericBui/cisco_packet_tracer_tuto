@@ -43,3 +43,4 @@
 ![2 computer in a separate network that communicate through a gateway with a router](6.png "2 computer in a separate network that communicate through a gateway with a router")
 
 # Router on a stick
+To do
